@@ -10,7 +10,7 @@ import copy
 import networkx as nx
 import additional_inputs
 
-ids = ["316350651", "324620814"]
+ids = ["id1", "id2"]
 
 def product_dict(dic):
     keys = dic.keys()
